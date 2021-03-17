@@ -2,3 +2,7 @@
 production:
   environment: production
   production_environment: true
+
+dev:
+  environment: dev
+  production_environment: false
